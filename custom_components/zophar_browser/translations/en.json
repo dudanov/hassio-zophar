@@ -1,0 +1,9 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "description": "Do you want to add Zophar Browser to Home Assistant?"
+      }
+    }
+  }
+}
